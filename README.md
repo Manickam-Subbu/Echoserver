@@ -1,7 +1,7 @@
 # Echoserver
 Echo server and client using python socket
 
-NAME : SANTHIYA R <BR>
+NAME : MANICKAM SUBBU <BR>
 REG NO : 212223060147
 # AIM:
 
